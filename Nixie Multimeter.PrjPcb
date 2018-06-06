@@ -74,7 +74,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OOVASDBS
 
 [Document3]
-DocumentPath=Sheet1.SchDoc
+DocumentPath=Input.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
